@@ -1,0 +1,13 @@
+.navbar{
+    background: #222;
+    padding: 10px;
+}
+.navbar a{
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+.navbar a.active{
+    font-weight: bold;
+    text-decoration: underline;
+}
